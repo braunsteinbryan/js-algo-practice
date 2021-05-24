@@ -1,4 +1,7 @@
-// *** canSum Problem *** 
+// *** canSum Problem ***
+// 1st out of 3(in terms of difficulty)
+// (Decision Problem(boolean(yes, no) return))
+
 // Write a function 'canSum(targetSum, numbers)' that takes in a targetSum and an array of numbers as arguments.
 
 // The function should return a boolean indicating whether or not it is possible to generate the targetSum using numbers from the array.

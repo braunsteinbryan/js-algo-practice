@@ -1,3 +1,7 @@
+// ***bestSum Problem***
+// 3rd out of 3(in terms of difficulty)
+// (Optimization Problem(array(shortest combination) return))
+
 // Write a function 'bestSum(targetSum, numbers)' that takes in a targetSum and an array of numbers as arguments.
 
 // The function should return an array containing the shortest combonation of numbers that add up to exactly the targetSum.
@@ -78,7 +82,7 @@ const bestSum = (targetSum, numbers, memo={}) => {
 
 
 // Memoized
-// time complexity: O(m^2 * n)
+// time complexity: O(n * m^2)
 // space complexity: O(m^2)
 
 

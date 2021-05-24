@@ -1,4 +1,7 @@
 // *** howSum Problem ***
+// 2nd out of 3(in terms of difficulty)
+// (Combinatoric Problem(array(exact combination) return))
+
 // Write a function 'howSum(targetSum, numbers)' that takes in a targetSum and an array of numbers as arguments.
 
 // The function should return an array containing any combonation of elements that add up to exactly the targetSum. If there is no combination that adds up to the targetSum, then return null.
