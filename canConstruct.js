@@ -30,7 +30,7 @@ const canConstruct = (target, wordBank) => {
 // m = target.length(height)
 // n = wordBank.length(branching factor)
 
-// *** ALWAYS CHECK the tree diagram and the code you have written to see if you have created any other growing structures that will ultimately affect the time and space complexities.
+// *** ALWAYS CHECK the tree diagram AND the code you have written to see if you have created any other growing structures that will ultimately affect the time and space complexities.
 
 
 // TIME COMPLEXITY: O(n^m * m)  (in the tree diagram(the overall time complexity is going to be the branching factor to the height power))
